@@ -10,7 +10,7 @@ This repository was merged into the main Supabase JS monorepo for better coordin
 
 ### What you need to do as a contributor:
 
-- **📖 For documentation**: Visit the [new realtime-js location](https://github.com/supabase/supabase-js/tree/master/packages/core/auth-js)
+- **📖 For documentation**: Visit the [new auth-js location](https://github.com/supabase/supabase-js/tree/master/packages/core/auth-js)
 - **🐛 For issues**: Create them in the [supabase-js repository](https://github.com/supabase/supabase-js/issues)
 - **🔧 For contributions**: See the [Contributing Guide](https://github.com/supabase/supabase-js/blob/master/CONTRIBUTING.md)
 - **📚 For migration help**: Read the [Migration Guide](https://github.com/supabase/supabase-js/blob/master/docs/MIGRATION.md)
